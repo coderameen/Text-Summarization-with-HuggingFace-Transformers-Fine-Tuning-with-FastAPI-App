@@ -1,1 +1,2 @@
-# Text-Summarization-with-HuggingFace-Transformers-Fine-Tuning-with-FastAPI-App
+Problem Statement:
+The rapid growth of digital content has created a need for efficient text summarization to extract key information quickly. Manual summarization is slow, and traditional methods often miss context or coherence. Transformer-based models provide powerful solutions, but challenges remain in fine-tuning them effectively and deploying them for practical use. This work addresses how Hugging Face Transformers can be fine-tuned for accurate summarization and deployed using FastAPI to deliver scalable, real-time summarization services.
